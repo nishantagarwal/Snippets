@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialFields", "PartialFields.csproj", "{73789B5F-DFBB-492A-B70E-918C1CD1B17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73789B5F-DFBB-492A-B70E-918C1CD1B17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73789B5F-DFBB-492A-B70E-918C1CD1B17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73789B5F-DFBB-492A-B70E-918C1CD1B17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73789B5F-DFBB-492A-B70E-918C1CD1B17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
